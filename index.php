@@ -47,7 +47,7 @@ class Layout
     }
 }
 
-$layout = new Layout('beastn');
+$layout = new Layout('beastnn');
 
 require_once 'engine/init.php'; 
 // include 'layout/overall/header.php';
